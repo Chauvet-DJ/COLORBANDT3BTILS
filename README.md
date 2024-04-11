@@ -13,3 +13,8 @@
 * The thumb drive must be formatted to FAT32.
 * The downloaded firmware file must be placed in the root directory on the thumb drive (no folders).
 * Do not disconnect from power source until the update process is complete.
+
+&nbsp;
+
+[V2.01 - COLORband T3BT ILS](https://github.com/Chauvet-DJ/COLORBANDT3BTILS/blob/0835a0662585b8cdbc095a0c74cc0c8bf28c3c5d/Firmware/V2.01_03-15-24.zip)
+- Released software version
