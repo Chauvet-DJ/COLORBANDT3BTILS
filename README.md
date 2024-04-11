@@ -12,3 +12,4 @@
 * Do not use a thumb drive greater than 32GB.
 * The thumb drive must be formatted to FAT32.
 * The downloaded firmware file must be placed in the root directory on the thumb drive (no folders).
+* Do not disconnect from power source until the update process is complete.
